@@ -67,20 +67,22 @@ https://github.com/palexdev/MaterialFX
 - 【binjr】https://github.com/binjr/binjr
 ![image](https://user-images.githubusercontent.com/17614992/161364332-f52b2d34-3189-494a-96e5-b70efa642215.png)
 
-https://github.com/vran-dev/PrettyZoo
+- 【PrettyZoo】https://github.com/vran-dev/PrettyZoo
+![image](https://user-images.githubusercontent.com/17614992/161379795-96b4aea9-188b-436b-a255-2c218382f4ef.png)
+
+
+
 
 ## Editor
 
 - 【AsciidocFX】https://github.com/BleethNie/AsciidocFX
 ![image](https://user-images.githubusercontent.com/17614992/161363732-fd6fd69a-e96e-4bcc-b6f9-e57356eceeee.png)
 
-
 - 【MonacoFX】https://github.com/miho/MonacoFX
 ![image](https://user-images.githubusercontent.com/17614992/161363801-bb62837a-89b1-4169-9061-27de70aec988.png)
 
 - 【Astro】 https://github.com/AmrDeveloper/Astro
 ![image](https://user-images.githubusercontent.com/17614992/161367036-efb4b757-7bad-4b12-98b1-ba7f088c74ef.png)
-
 
 - 【Chronos IDE】https://github.com/giancosta86/Chronos-IDE
 ![image](https://user-images.githubusercontent.com/17614992/161367101-03371ff0-91ac-410c-a4a0-0dbb7886c033.png)
@@ -95,15 +97,20 @@ https://github.com/vran-dev/PrettyZoo
 ![image](https://user-images.githubusercontent.com/17614992/161367371-8708a953-d2c3-42f0-8702-62b9cf0a9f0f.png)
 
 
-
 - 【EpubFx】https://gitlab.com/finanzer/epubfx/
 ![image](https://user-images.githubusercontent.com/17614992/161367137-3739e780-54c1-4460-9694-eb34fa262f2c.png)
 
-https://github.com/frosch95/SmartCSV.fx
+- 【SmartCSV.fx】https://github.com/frosch95/SmartCSV.fx
+![image](https://user-images.githubusercontent.com/17614992/161379830-0c3230ae-1a94-442e-8d7d-94ab04650574.png)
 
-https://github.com/Col-E/Recaf
+- 【Recaf】https://github.com/Col-E/Recaf
+![image](https://user-images.githubusercontent.com/17614992/161379846-bb802bd5-f2ee-42b5-8156-86a75d004375.png)
 
-https://github.com/Dansoftowner/MarkdownEditorControlFX
+- 【MarkdownEditorControlFX】https://github.com/Dansoftowner/MarkdownEditorControlFX
+![image](https://user-images.githubusercontent.com/17614992/161379898-dbd5d114-15e5-4c3a-bef7-2f27af60a37c.png)
+
+
+
 
 
 
@@ -127,6 +134,9 @@ https://github.com/Dansoftowner/MarkdownEditorControlFX
 
 - 【JNekoImageDB】 https://github.com/konachan700/JNekoImageDB
 ![image](https://user-images.githubusercontent.com/17614992/161361307-6a0bcc7f-20ca-4fc8-95e3-7f186ab842d1.png)
+
+- 【PhotoSlide】https://github.com/lanthale/PhotoSlide
+![image](https://user-images.githubusercontent.com/17614992/161379965-90fa4b3c-3717-4710-bc47-558c6112d827.png)
 
 
 
