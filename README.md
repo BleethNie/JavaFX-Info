@@ -50,6 +50,26 @@
 - 【MonacoFX】https://github.com/miho/MonacoFX
 ![image](https://user-images.githubusercontent.com/17614992/161363801-bb62837a-89b1-4169-9061-27de70aec988.png)
 
+- 【Astro】 https://github.com/AmrDeveloper/Astro
+![image](https://user-images.githubusercontent.com/17614992/161367036-efb4b757-7bad-4b12-98b1-ba7f088c74ef.png)
+
+
+- 【Chronos IDE】https://github.com/giancosta86/Chronos-IDE
+![image](https://user-images.githubusercontent.com/17614992/161367101-03371ff0-91ac-410c-a4a0-0dbb7886c033.png)
+
+- 【keenwrite】https://github.com/DaveJarvis/keenwrite
+![image](https://user-images.githubusercontent.com/17614992/161367303-a2817db5-5b7e-4ca6-a956-736d79132f85.png)
+
+- 【Markdown Writer FX】https://github.com/JFormDesigner/markdown-writer-fx
+![image](https://user-images.githubusercontent.com/17614992/161367321-dac694cf-7731-47f5-a65c-9652875fc518.png)
+
+- 【Nearde IDE】https://github.com/VenityStudio/Nearde-IDE
+![image](https://user-images.githubusercontent.com/17614992/161367371-8708a953-d2c3-42f0-8702-62b9cf0a9f0f.png)
+
+
+
+- 【EpubFx】https://gitlab.com/finanzer/epubfx/
+![image](https://user-images.githubusercontent.com/17614992/161367137-3739e780-54c1-4460-9694-eb34fa262f2c.png)
 
 
 ## 通用工具
@@ -79,6 +99,9 @@
 
 -【ElectronicStoreToolFX】https://github.com/LaynezCoder/ElectronicStoreToolFX
 ![image](https://user-images.githubusercontent.com/17614992/161361979-2f330fdd-4d7f-4418-a804-359480beab38.png)
+
+- 【Boomega】https://github.com/Dansoftowner/Boomega
+![image](https://user-images.githubusercontent.com/17614992/161367063-d2a6eae6-f1ca-4216-a8fc-79fdc27b99e8.png)
 
 
 ## Image/Video
@@ -128,5 +151,7 @@ OmniGraph
 - 【FXRouter】https://github.com/Marcotrombino/FXRouter
 ![image](https://user-images.githubusercontent.com/17614992/161363902-06ab830d-0d02-4fd6-8e94-1b60cd5ab4bc.png)
 
+-【jabref】https://www.jabref.org/
+![image](https://user-images.githubusercontent.com/17614992/161367246-42fe5feb-a232-4dcd-ae3e-5cdf497e106e.png)
 
 
