@@ -5,6 +5,12 @@
 - 【FluentFX】https://github.com/Ivan-Kalatchev/FluentFX
 ![image](https://user-images.githubusercontent.com/17614992/161361506-cd693ca3-b637-4534-b62c-96ca8f10b84e.png)
 
+- 【JavaFX-Blur】 https://github.com/kieferlam/JavaFX-Blur
+![image](https://user-images.githubusercontent.com/17614992/161362059-9c5438cf-e489-44e9-95ce-035bf142ad0b.png)
+
+- 【window-blur-javafx】https://github.com/aberdar/window-blur-javafx
+![image](https://user-images.githubusercontent.com/17614992/161362070-c5a13b3b-1d39-4462-9f3d-a950e1aad146.png)
+
 
 
 ## 数据库管理
@@ -20,8 +26,6 @@
 
 - 【sqlbrowserfx】https://github.com/pariskol/sqlbrowserfx
 ![image](https://user-images.githubusercontent.com/17614992/161360905-0f81aee8-5a90-4e5b-abf3-797b037c5a43.png)
-
-
 
 
 
@@ -41,6 +45,17 @@
 ![image](https://user-images.githubusercontent.com/17614992/161361307-6a0bcc7f-20ca-4fc8-95e3-7f186ab842d1.png)
 
 
+
+## 管理系统
+
+-【ElectronicStoreToolFX】https://github.com/LaynezCoder/ElectronicStoreToolFX
+![image](https://user-images.githubusercontent.com/17614992/161361979-2f330fdd-4d7f-4418-a804-359480beab38.png)
+
+
+## Video
+
+- 【FXFaceDetection】https://github.com/HouariZegai/FXFaceDetection
+![image](https://user-images.githubusercontent.com/17614992/161362155-9d6f59fb-a4e7-416f-8924-57a0c4bfb74b.png)
 
 
 
