@@ -33,7 +33,11 @@ https://github.com/dlsc-software-consulting-gmbh/GemsFX
 
 https://github.com/dlsc-software-consulting-gmbh/PreferencesFX
 
+https://github.com/leewyatt/rxcontrols
 
+https://github.com/controlsfx/controlsfx
+
+https://github.com/JFXtras/jfxtras
 
 ## 数据库管理
 
@@ -90,6 +94,10 @@ https://github.com/vran-dev/PrettyZoo
 https://github.com/frosch95/SmartCSV.fx
 
 https://github.com/Col-E/Recaf
+
+https://github.com/Dansoftowner/MarkdownEditorControlFX
+
+
 
 ## 通用工具
 
@@ -163,6 +171,11 @@ JavaFXSmartGraph
 VWorkflows
 VisFX
 OmniGraph
+
+-【JetUML】https://github.com/prmr/JetUML
+![image](https://user-images.githubusercontent.com/17614992/161369286-f16188c0-3d6d-4d55-a971-9f3e5cc7d434.png)
+
+
 
 https://github.com/jfree/fxgraphics2d
 
