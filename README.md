@@ -8,6 +8,7 @@
 
 http://miglayout.com/
 
+https://github.com/FXMisc/Flowless
 
 ## UI效果
 
@@ -22,7 +23,7 @@ http://miglayout.com/
 
 https://github.com/iAmGio/froxty
 
-
+https://github.com/Typhon0/AnimateFX
 
 https://github.com/schlegel11/JFXAnimation
 
@@ -38,6 +39,13 @@ https://github.com/leewyatt/rxcontrols
 https://github.com/controlsfx/controlsfx
 
 https://github.com/JFXtras/jfxtras
+
+https://github.com/sshahine/JFoenix
+
+https://github.com/PlusHaze/TrayNotification
+
+https://github.com/palexdev/MaterialFX
+
 
 ## 数据库管理
 
@@ -130,6 +138,8 @@ https://github.com/Dansoftowner/MarkdownEditorControlFX
 - 【Boomega】https://github.com/Dansoftowner/Boomega
 ![image](https://user-images.githubusercontent.com/17614992/161367063-d2a6eae6-f1ca-4216-a8fc-79fdc27b99e8.png)
 
+https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX
+
 
 ## Image/Video
 
@@ -180,6 +190,12 @@ OmniGraph
 https://github.com/jfree/fxgraphics2d
 
 https://github.com/stefaneidelloth/javafx-d3
+
+## web
+https://github.com/badarshahzad/JFX-Browser
+
+https://github.com/webfx-project/webfx
+
 
 ## 其它
 
