@@ -6,6 +6,8 @@
 - 【FlexBoxFX】https://github.com/UltraMixer/FlexBoxFX
 ![image](https://user-images.githubusercontent.com/17614992/161363766-b1677901-83f1-4109-8fe1-c07c5b61a186.png)
 
+http://miglayout.com/
+
 
 ## UI效果
 
@@ -17,6 +19,20 @@
 
 - 【window-blur-javafx】https://github.com/aberdar/window-blur-javafx
 ![image](https://user-images.githubusercontent.com/17614992/161362070-c5a13b3b-1d39-4462-9f3d-a950e1aad146.png)
+
+https://github.com/iAmGio/froxty
+
+
+
+https://github.com/schlegel11/JFXAnimation
+
+
+## controls
+
+https://github.com/dlsc-software-consulting-gmbh/GemsFX
+
+https://github.com/dlsc-software-consulting-gmbh/PreferencesFX
+
 
 
 ## 数据库管理
@@ -39,7 +55,7 @@
 - 【binjr】https://github.com/binjr/binjr
 ![image](https://user-images.githubusercontent.com/17614992/161364332-f52b2d34-3189-494a-96e5-b70efa642215.png)
 
-
+https://github.com/vran-dev/PrettyZoo
 
 ## Editor
 
@@ -71,6 +87,9 @@
 - 【EpubFx】https://gitlab.com/finanzer/epubfx/
 ![image](https://user-images.githubusercontent.com/17614992/161367137-3739e780-54c1-4460-9694-eb34fa262f2c.png)
 
+https://github.com/frosch95/SmartCSV.fx
+
+https://github.com/Col-E/Recaf
 
 ## 通用工具
 
@@ -134,6 +153,8 @@
 - 【monitor】https://github.com/HanSolo/monitor
 ![image](https://user-images.githubusercontent.com/17614992/161364346-0689cb35-6b03-4b19-89e7-b0331a6b273f.png)
 
+https://github.com/jfree/orson-charts
+
 
 ## graph
 
@@ -142,6 +163,10 @@ JavaFXSmartGraph
 VWorkflows
 VisFX
 OmniGraph
+
+https://github.com/jfree/fxgraphics2d
+
+https://github.com/stefaneidelloth/javafx-d3
 
 ## 其它
 
@@ -154,4 +179,8 @@ OmniGraph
 -【jabref】https://www.jabref.org/
 ![image](https://user-images.githubusercontent.com/17614992/161367246-42fe5feb-a232-4dcd-ae3e-5cdf497e106e.png)
 
+
+https://github.com/JonathanGiles/scenic-view
+
+https://github.com/openlowcode/Open-Lowcode
 
