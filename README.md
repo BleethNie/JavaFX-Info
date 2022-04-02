@@ -1,5 +1,12 @@
 # JavaFX-Info
 
+
+## Layout
+
+- 【FlexBoxFX】https://github.com/UltraMixer/FlexBoxFX
+![image](https://user-images.githubusercontent.com/17614992/161363766-b1677901-83f1-4109-8fe1-c07c5b61a186.png)
+
+
 ## UI效果
 
 - 【FluentFX】https://github.com/Ivan-Kalatchev/FluentFX
@@ -29,6 +36,15 @@
 - 【Kafka】https://github.com/grzegorz-wolszczak/kafka-message-tool
 ![image](https://user-images.githubusercontent.com/17614992/161362499-1ba5a642-06da-48de-93d6-3b2b6f02b7e4.png)
 
+
+## Editor
+
+- 【AsciidocFX】https://github.com/BleethNie/AsciidocFX
+![image](https://user-images.githubusercontent.com/17614992/161363732-fd6fd69a-e96e-4bcc-b6f9-e57356eceeee.png)
+
+
+- 【MonacoFX】https://github.com/miho/MonacoFX
+![image](https://user-images.githubusercontent.com/17614992/161363801-bb62837a-89b1-4169-9061-27de70aec988.png)
 
 
 
@@ -79,10 +95,25 @@
 ![image](https://user-images.githubusercontent.com/17614992/161362353-e7a74327-d52f-4a87-9d3e-aa0d08b09d44.png)
 
 
+- 【javafx-dataviewer】https://github.com/jasrodis/javafx-dataviewer
+![image](https://user-images.githubusercontent.com/17614992/161364108-c0cdea4c-e5cc-4111-aa51-b68dc03afd9e.png)
+
+- 【chart-fx】https://github.com/GSI-CS-CO/chart-fx
+![image](https://user-images.githubusercontent.com/17614992/161364183-b66c112f-a17f-4517-86c6-a4f01c1f7070.png)
+
+- 【dataviewer】 https://github.com/HanSolo/dataviewer
+![image](https://user-images.githubusercontent.com/17614992/161364239-67602dc2-9be6-4cef-b017-8be334b94547.png)
+
+
+
+
 ## 其它
 
 - 【OwlPlug】https://github.com/DropSnorz/OwlPlug
 ![image](https://user-images.githubusercontent.com/17614992/161362747-9c403e38-3ca6-4ef5-8284-a7bbfaa0a001.png)
+
+- 【FXRouter】https://github.com/Marcotrombino/FXRouter
+![image](https://user-images.githubusercontent.com/17614992/161363902-06ab830d-0d02-4fd6-8e94-1b60cd5ab4bc.png)
 
 
 
