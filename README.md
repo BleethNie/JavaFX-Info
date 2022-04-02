@@ -47,6 +47,11 @@ https://github.com/PlusHaze/TrayNotification
 https://github.com/palexdev/MaterialFX
 
 
+- 【UIXFX】https://github.com/LaynezCoder/UIXFX
+![image](https://user-images.githubusercontent.com/17614992/161389024-15e4e3cf-2684-4135-9deb-0d0e67382f3c.png)
+
+
+
 ## 数据库管理
 
 - 【SQLucky】 https://github.com/tenie/SQLucky
