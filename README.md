@@ -1,5 +1,17 @@
 # JavaFX-Info
 
+## new 
+https://github.com/Oshan96/CustomStage
+
+https://oliver-loeffler.github.io/FXFileChooser/
+
+https://github.com/jasrodis/javafx-dataviewer-wrapper
+
+https://github.com/abykuruvilla-dev/JFXNodeMapper
+
+https://github.com/HanSolo/Medusa
+
+https://github.com/Tristan971/EasyFXML
 
 ## Layout
 
